@@ -14,8 +14,8 @@ To write a Python program that evaluates and prints the results of boolean and a
 7. Print the value of `c` with the label "c:".
 8. Print the value of `d` with the label "d:".
 
-## 💻 Program```
-a = (0 == True)
+## 💻 Program
+```a = (0 == True)
 b = (False == False)
 c = (True + True)
 d = (False + 9)
